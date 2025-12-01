@@ -1,9 +1,9 @@
-##Overview
+# **Overview**
 
 This project demonstrates a basic end-to-end machine learning workflow using Python. It includes data loading, preprocessing, exploratory data analysis (EDA), feature encoding, model training, and evaluation.
 The dataset is included in the project folder.
 
-##Steps in the Notebook
+# **Steps in the Notebook**
 
 1. Imports and Data Loading
 2. Data Preprocessing
